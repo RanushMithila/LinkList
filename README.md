@@ -7,7 +7,8 @@
 ## Singly Linked List
 
 ![singly_link_list](./src/singly_link_list.png)
-[a link](./singly.c)
+
+[Source Code](./singly.c)
 
 ## Doubly Linked List
 
