@@ -13,3 +13,5 @@
 ![Doubly Linked List](./src/DLL1.png)
 
 ## Circular Linked List
+
+![Circular Linked List](./src/circular-singly-linked-list.png)
