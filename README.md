@@ -4,6 +4,6 @@
 
 ![C](https://skills.thijs.gg/icons?i=c)
 
-# Singly Linked List
+## Singly Linked List
 
 ![singly_link_list](./src/singly_link_list.png)
